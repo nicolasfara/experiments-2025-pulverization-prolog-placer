@@ -1,3 +1,26 @@
+## [1.7.1](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/compare/1.7.0...1.7.1) (2025-02-25)
+
+### Dependency updates
+
+* **deps:** update alchemist to v39 ([#57](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/issues/57)) ([dabe233](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/commit/dabe2333b85f96d22a9d8acdd69622b3f7821a7e))
+* **deps:** update dependency scalafmt to v3.9.0 ([#52](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/issues/52)) ([219b1c5](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/commit/219b1c53d1df307b4617edaeed80cef210bca26a))
+* **deps:** update node.js to 22.14 ([#56](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/issues/56)) ([5297c01](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/commit/5297c01cbf62a5e6ad7d82204e4978948b1b7ad1))
+
+### Bug Fixes
+
+* install latex fonts ([e7d7475](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/commit/e7d74754930ff077fdc8941cc09c7ab0857709b9))
+* new generated data ([00acedb](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/commit/00acedb367f9daf8d98747b230354b82e60fa1bc))
+* set latex fonts ([bd9f23f](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/commit/bd9f23f97df50201d929aa51db51d213457e3a9d))
+* use shadow for errors ([70274c6](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/commit/70274c61eaabceafb2913a64f952339764bbe8d3))
+
+### Build and continuous integration
+
+* install latex fonts ([fe389ac](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/commit/fe389ac331171f71607099392122c20f04069383))
+
+### General maintenance
+
+* **release:** update gradle.properties .env versions to 1.7.0 [skip ci] ([3f2a2cc](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/commit/3f2a2cc78a617cd07c2fe9e0b5d20840f712ae71))
+
 ## [1.7.0](https://github.com/nicolasfara/experiments-2025-pulverization-prolog-placer/compare/1.6.1...1.7.0) (2025-02-20)
 
 ### Features
